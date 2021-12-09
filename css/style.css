@@ -1,0 +1,102 @@
+.main-bacgkround{
+    width: 100%;
+    height: 500px;
+    background-image: url('https://st2.depositphotos.com/1542745/9331/i/950/depositphotos_93311052-stock-photo-abstract-image-background-of-blur.jpg');
+    background-size:cover;
+    text-align: center;
+}
+
+.sp{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.tCenterPosition{
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+.tCenter{
+    text-align: center;
+}
+
+.marginTop{
+    margin-top: -35px;
+}
+
+.paddingTop{
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+
+.content{
+    width: 100%;
+    min-height: 393px;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.lContent{
+    width: 581px;
+    height: 190px;
+    float: left;
+}
+
+.spColor{
+    color: gray;
+
+}
+
+.bt{
+    width: 130px;
+    height: 23px;
+    background-color: black;
+    position: absolute;
+    bottom: 120px;
+    left: 445px;
+    float: left;
+}
+
+.bt1{
+    width: 130px;
+    height: 23px;
+    border: 1px solid gray;
+    position: absolute;
+    bottom: 120px;
+    right: 445px;
+    float: left;
+}
+
+.bt, .bt1 span{
+    color: gray;
+    font-weight: 100;
+    text-align: center;
+}
+
+.pht{
+    width: 100%;
+    min-height: 75px;
+}
+
+.sector1{
+    width: 100%;
+    min-height: 70px;
+    text-align: center;
+    float: left;
+}
+
+.footer{
+    width: 100%;
+    min-height: 75px;
+    float: left ;
+    background-color: rgba(128, 128, 128, 0.452);
+}
+
+.mrg{
+    margin: 20px 0px;
+}
